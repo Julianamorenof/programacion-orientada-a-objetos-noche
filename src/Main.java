@@ -3,5 +3,7 @@
 void main() {
     System.out.println("Hola mundo");
     System.out.println("Repaso comando");
+    System.out.println("Juliana Moreno Forero");
+    System.out.println("El lenguaje de programacion que visto y aprendido es c++");
 
 }
